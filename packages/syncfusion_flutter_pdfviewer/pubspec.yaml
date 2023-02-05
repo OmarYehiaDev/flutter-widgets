@@ -36,17 +36,18 @@ dependencies:
   uuid: ^3.0.5
   intl: ^0.17.0
 
-  syncfusion_pdfviewer_platform_interface: ^20.4.38
+  syncfusion_pdfviewer_platform_interface: 20.3.59
 
-  syncfusion_pdfviewer_web: ^20.4.38
+  syncfusion_pdfviewer_web: 20.3.59
 
-  syncfusion_pdfviewer_macos: ^20.4.38
+  syncfusion_pdfviewer_macos: 20.3.59
   
-  syncfusion_pdfviewer_windows: ^20.4.38
+  syncfusion_pdfviewer_windows: 20.3.59
+  
+  syncfusion_flutter_core: 20.3.59
 
-  syncfusion_flutter_core: ^20.4.38
-
-  syncfusion_flutter_pdf: ^20.4.38
+  syncfusion_flutter_pdf: 20.3.59
+  
 
   url_launcher: ^6.1.0
 
